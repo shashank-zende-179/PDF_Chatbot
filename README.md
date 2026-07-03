@@ -18,40 +18,40 @@ This project follows a classic machine-learning **RAG architecture**, decoupling
 
   ```
 
-   User
-
-   │
-
-   ▼
-
-   Upload PDF Documents
-
-   │
-
-   ▼
-
-   PyMuPDF Text Extraction
-
-   │
-
-   ▼
-
-   Text Cleaning & Chunking
-
-   │
-
-   ▼
-
-  SentenceTransformer Embeddings
-
-   │
-
-   ▼
-
-   FAISS Vector Database
-
-   │
-
+                       User
+                    
+                       │
+                    
+                       ▼
+                    
+                       Upload PDF Documents
+                    
+                       │
+                    
+                       ▼
+                    
+                       PyMuPDF Text Extraction
+                    
+                       │
+                    
+                       ▼
+                    
+                       Text Cleaning & Chunking
+                    
+                       │
+                    
+                       ▼
+                    
+                      SentenceTransformer Embeddings
+                    
+                       │
+                    
+                       ▼
+                    
+                       FAISS Vector Database
+                    
+                       │
+                       ▼
 ─────────────────────────────────────────────
 
               User Question
