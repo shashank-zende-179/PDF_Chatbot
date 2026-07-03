@@ -146,8 +146,7 @@ The following flowchart details the exact computation pipeline when a user inter
 # ⚙️ Installation
 ### Clone Repository
 ```bash
-git clone https://github.com/yourusername/PDF-RAG-Chatbot.git
-cd PDF-RAG-Chatbot
+https://github.com/shashank-zende-179/PDF_Chatbot.git
 ```
 ### Create Virtual Environment
 ```bash
@@ -202,4 +201,4 @@ streamlit run app.py
 
 # 👨‍💻 Author
 
-**Shashank Zende
+**Shashank Zende**
