@@ -15,7 +15,7 @@ This project follows a classic machine-learning **RAG architecture**, decoupling
 * **Vector Embeddings**: [SentenceTransformers](https://sbert.net/) (Using `all-MiniLM-L6-v2` runs locally and produces 384-dimensional vector embeddings without incurring API costs)
 * **Vector Database**: [FAISS](https://github.com/facebookresearch/faiss) (Facebook AI Similarity Search, a highly optimized localized vector store)
 * **LLM Generation**: [Groq API](https://groq.com/) (Using the lightning-fast `llama-3.1-8b-instant` model to synthetically generate text strictly from prompt contexts).
-
+---
   ```
 
                        User
@@ -93,12 +93,6 @@ This project follows a classic machine-learning **RAG architecture**, decoupling
             Streamlit Interface
 
 ```
-
-
-
-
-
-
 ---
 
 ## 🗂️ Project Structure & File Index
