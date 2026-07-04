@@ -1,6 +1,6 @@
 # 📄 PDF-Based RAG Chatbot System
 
-An AI-powered document question-answering system that leverages **Retrieval-Augmented Generation (RAG)** to deliver accurate, context-aware responses from one or multiple PDF documents using semantic search and Large Language Models.
+Developed an AI-powered document question-answering system using Retrieval-Augmented Generation (RAG) that enables users to ask questions from one or multiple PDF documents. The system uses semantic search, vector embeddings, and Large Language Models (LLMs) to retrieve relevant context and generate accurate, context-aware responses.
 
 ---
 
